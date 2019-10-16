@@ -1,6 +1,7 @@
 .title{
   text-align: center;
   font-family: Arial-Black;
-  border-bottom: solid;
+  border-bottom: double;
+  border-width: 3px;
 }
 
