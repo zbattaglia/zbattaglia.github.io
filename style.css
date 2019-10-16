@@ -1,3 +1,7 @@
-p{
+div.a{
   color: red;
+}
+<style>
+  div.a{
+ text align: center;   
 }
