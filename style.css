@@ -16,6 +16,9 @@
 .align-right{
   float: right;
 }
+.align-right-pic{
+  margin-right: 30px;
+}
 .work{
   border-bottom: dotted;
   font-style: italic;
