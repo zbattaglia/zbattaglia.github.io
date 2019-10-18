@@ -16,6 +16,9 @@
 .align-right{
   float: right;
 }
+.center{
+  text-align: center;
+}
 .work{
   border-bottom: dotted;
   font-style: italic;
