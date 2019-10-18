@@ -12,6 +12,7 @@
 }
 .align-right{
   float: right;
+  margin-right: 100px;
 }
 .align-right-pic{
   float: right;
