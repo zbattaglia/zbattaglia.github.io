@@ -4,7 +4,8 @@
   border-bottom: double;
   border-width: 6px;
 }
-h5{
-  font-size: 12px;
-  line-height: 1px;
+.education{
+  color: maroon;
+  background-image: url("https://roosevelt.mpls.k12.mn.us/uploads/u_of_m_logo_2.jpg");
+  background-size: cover;
 }
