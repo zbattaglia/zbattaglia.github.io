@@ -17,7 +17,7 @@
 }
 .align-right-pic{
   float: right;
-  margin-right: 2px;
+  margin: 20px;
 }
 .work{
   border-bottom: dotted;
@@ -36,4 +36,11 @@
   margin: 0;
   line-height: 20px;
 }
-  
+.content-large{
+  padding: 0;
+  margin: 0;
+  line-height: 20px;
+  font-size: 60px;
+  font-type: comic sans ms;
+  font-weight: bold;
+}
