@@ -1,0 +1,15 @@
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: $secondary;
+  color: $white;
+  text-align: center;
+}
+
+.copyright {
+  background-color: darken($secondary, 10%);
+}
+
+.contact {
+  margin: auto;
+}
