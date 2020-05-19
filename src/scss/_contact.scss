@@ -54,3 +54,18 @@ form .row:first-child .floating-label-form-group {
 .devicon-javascript-plain {
   height: 500px;
 }
+
+.tech-list {
+  list-style: none;
+  font-size: large;
+}
+
+.list-item {
+  font-size: 2rem;
+  white-space: nowrap;
+}
+
+i {
+  font-size: 3rem;
+  // padding-top: .5rem
+}
