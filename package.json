@@ -36,7 +36,8 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
     },
     "dependencies": {
-        "bootstrap": "4.4.1"
+        "bootstrap": "4.4.1",
+        "upath": "1.2.0"
     },
     "devDependencies": {
         "autoprefixer": "9.7.6",
@@ -47,7 +48,6 @@
         "prettier": "2.0.4",
         "pug": "2.0.4",
         "sass": "1.26.3",
-        "shelljs": "0.8.3",
-        "upath": "1.2.0"
+        "shelljs": "0.8.3"
     }
 }
