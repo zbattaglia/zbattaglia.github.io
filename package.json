@@ -38,7 +38,7 @@
     "dependencies": {
         "bootstrap": "4.4.1",
         "express": "^4.17.1",
-        "shelljs": "0.8.3",
+        "shelljs": "0.8.5",
         "upath": "1.2.0"
     },
     "devDependencies": {
